@@ -8,7 +8,9 @@ st.set_page_config(page_icon="👧", layout="wide",
 
 
 st.subheader(" 👧 Mee Mee's Interactive Resume")
-multi = '''👋 Welcome to Mee Mee's personal chat bot to explore Mee's previous experiences and her skillsets.\n What do you want to know? Ask anything!"'''
+multi = '''👋 Welcome to Mee Mee's personal chat bot to explore Mee's previous experiences and her skillsets.
+ What do you want to know? 
+ Ask anything!"'''
 st.markdown(multi)
 
 client = OpenAI(
