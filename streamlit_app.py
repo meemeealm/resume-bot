@@ -4,12 +4,12 @@ from typing import Generator
 
 
 st.set_page_config(page_icon="👨‍💼", layout="wide",
-                   page_title="John Doe's Resume Bot")
+                   page_title="Mee Mee's Resume Bot")
 
 
-st.subheader("👨‍💼📊📈📁 John Doe's Interactive Resume")
+st.subheader("👨‍💼📊📈📁 Mee Mee's Interactive Resume")
 st.write(
-    "Welcome to John Doe's personal chat bot to answer John's previous experiences and his skillsets. Ask away what you want to know!"
+    "Welcome to Mee Mee's personal chat bot to answer John's previous experiences and his skillsets. Ask away what you want to know!"
 )
 
 client = OpenAI(
