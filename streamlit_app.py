@@ -9,7 +9,7 @@ st.set_page_config(page_icon="👧", layout="wide",
 
 st.subheader(" 👧 Mee Mee's Interactive Resume")
 st.write(
-    "👋 Welcome to Mee Mee's personal chat bot to explore Mee's previous experiences and her skillsets. \n What do you want to know? Ask anything!"
+    "👋 Welcome to Mee Mee's personal chat bot to explore Mee's previous experiences and her skillsets.\n What do you want to know? Ask anything!"
 )
 
 client = OpenAI(
