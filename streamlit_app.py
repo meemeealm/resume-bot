@@ -9,7 +9,7 @@ st.set_page_config(page_icon="👨‍💼", layout="wide",
 
 st.subheader("👨‍💼📊📈📁 Mee Mee's Interactive Resume")
 st.write(
-    "Welcome to Mee Mee's personal chat bot to answer John's previous experiences and his skillsets. Ask away what you want to know!"
+    "Welcome to Mee Mee's personal chat bot to answer Mee's previous experiences and his skillsets. Ask away what you want to know!"
 )
 
 client = OpenAI(
@@ -50,7 +50,7 @@ def generate_chat_responses(chat_completion) -> Generator[str, None, None]:
             yield chunk.choices[0].delta.content
 
 
-if prompt := st.chat_input("Ask what you want to know about John's resume..."):
+if prompt := st.chat_input("Ask what you want to know about Mee's resume..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     with st.chat_message("user", avatar='👨‍💻'):
