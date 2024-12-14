@@ -2,141 +2,92 @@ MEE MEE
 Data Analyst
 📍 123 Tech Street, San Francisco, CA 94107
 ☎️ (123) 456-7890
-✉️ john.doe@email.com
+✉️ meemee.alm20@gmail.com
 LinkedIn | GitHub
 Visa Status: Full working rights in the US without Visa sponsorship
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+I am an aspiring data analyst with a Master Degree in Informatics from Universiti Teknologi Malaysia. I am a goal-oriented and motivated person who wants to embark on challenging opportunities. I have more than 8 years of experience emphasizing digital technologies. I am interested in the intersection of society and digital technology.
 
-Technical Skills
+Professional Experiences
+Information Management Officer @ Community and Family Services International 
+Manila NCR, Philippines (2024 February - 2024 December)
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+-	Participate in data and management of information activities in Philippine and Myanmar Offices
+-	Create dashboards and provide innovative solutions for project activities 
+-	Improve data quality and provide technical support on data management methodologies 
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
+Research Assistant @ Universiti Teknologi Malaysia 
+Kuala Lumpur, Malaysia (2023 June – 2023 August)
 
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
+-	Prepare interview questions, conduct expert evaluations and user testing as part of project activities (AR powered learning application)
+-	Collect, analyze and summarized data for report
 
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
+Communication Officer (Social Media) @ International Foundation for Electoral Systems 
+Yangon, Myanmar (2019 November – 2021 August)
+-	Produce and publish social media contents/ broadcast live streaming including the materials in regard to Events and Festivals
+-	Manage 4 facebook pages, one youtube channel and one website
+-	Collaborate with M&E officers, track, collect and analyze campaign/media metrics for social media content, and campaigns.
+-	Engage and coordinate with social media influencers and artists for Events and Festivals
+-	Conduct Social Media Trainings for partner organizations
 
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
+Digital and Social Media Lead @ Population Services International Myanmar 
+Yangon, Myanmar (2017 May – 2019 June)
 
-Professional Experience
+-	Develop and implement digital and social media communication strategies for Community Health Services network
+-	Develop health messages/ contents (TB, Malaria, RH, and so on), manage Facebook Page and monitor/ measure the progress of social media campaigns
+-	Write scripts and assist in producing videos 
+-	Suggest the functional features, manage and plan activities to expand the growth of Health Application
 
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
+Senior Content Writer @ Nexus Solutions 
+Yangon, Myanmar (2015 April – 2017 January)
 
-    Architected and developed scalable microservices, improving application performance by 40%.
+-	Develop editorial contents (covering Technology News/ Gadget Reviews. Science and Viral News)  for websites, blogs, stories and social media to engage audience
+-	Write advertorials for business purposes while monitoring website and Facebook page 
 
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
 
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
+Translator @ Cherry Mobile
+Yangon, Myanmar  (2014 March –2015 April)
 
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
+–	Translate commercial materials, office documents, manuals, Language used in phone, etc. in English/ Myanmar and vice versa.
+–	Translate and provide commercial contents and headlines for marketing purposes to get awareness of customers
 
-    Conducted technical interviews and mentored junior engineers to foster team growth.
 
-Key Achievements:
+Program Assistant cum Operation Staff (Intern) @ Share Mercy 
+Yangon, Myanmar (2013 Nov – 2014 March)
 
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
+-	Assisting Program Manager to run workshops and campaigns
+-	Preparing office documents for workshops and meetings 
+-	Collecting and researching cases of farmers in delta area for project
 
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
 
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
-
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
-
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
-
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
-
-    Collaborated with designers and product managers to deliver user-focused solutions.
-
-Key Achievements:
-
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
-
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
-
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
-
-    Assisted in developing responsive web applications using React and Node.js.
-
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
-
-    Optimized database queries and contributed to schema design for improved performance.
-
-Key Achievements:
-
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
+Volunteering Experiences
+−	Mentor (Virtual) at Wedu Thailand							(2024)
+−	Facilitator at Internet Governance Forum – Myanmar				(2022) 
+−	Data Collector at Covid Emergency Response Team 					(2021)
+−	Tech Support at Bar camp Yangon 							(2018)
+−	Documenter in Youth Circle 							(2017)
+−	Computer Teacher in CFSI - Buthidaung 						(2011)
 
 Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
+M.Sc (Informatics) 
+(Universiti Teknologi Malaysia/ UTM)							2022 – 2023
+Awards: Best Paper Award, Dean's List Award, Silver Award for Research Poster Competitions
 
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
+B.A (Russian) 
+(Yangon University of Foreign Languages / YUFL)						2010 – 2013
+Activities: Literature Club
 
-    GPA: 3.8
-
+Publication
+Mee Mee Alainmar, Megat, N., Nurazean Maarof, Nurulhuda Firdaus Azmi, Rasimah Che Mohd Yusop, Syed Ardi Syed Yahya Kamal, & Wan Azlan Wan Hassan. (2023). A PRISMA Review on Methods and Challenges in Learning Computer Maintenance Using Augmented Reality Technology. Open International Journal of Informatics, 11(2), 1–9. https://doi.org/10.11113/oiji2023.11n2.262
 Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
+Google Data Analytics Certificate (Coursera) - 2024
+SQL Courses (DataCamp) - 2024
+Introduction to Python (Code In Place by Stanford) - 2024
+Going Places with Spatial Analysis (Esri) - 2024
 
 
+Additional Skills and Interests
+-	Research and analytical skills/ Storytelling/ interviewing and documentation
+-	Digital Marketing/ Communication and Content Development, Media production (Audio-Visual-Text)
+-	Basic knowledge on Adobe Photoshop, Content Management Systems (Wordpress, Drupal), MS Office etc.
+-	PowerBI, Tableau, Esri.
