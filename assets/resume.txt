@@ -1,5 +1,5 @@
-John Doe
-Software Engineer
+MEE MEE
+Data Analyst
 📍 123 Tech Street, San Francisco, CA 94107
 ☎️ (123) 456-7890
 ✉️ john.doe@email.com
